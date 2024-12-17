@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **niharikapanda278@gmail.com**
 
-- ⚡ Fun fact **I can sit for coding more than 2 hours without any break…**
+- ⚡ Fun fact **I have a photographic memory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
