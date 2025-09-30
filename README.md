@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@niharikapanda09" target="blank"><img src="https://img.shields.io/twitter/follow/@niharikapanda09?logo=twitter&style=for-the-badge" alt="@niharikapanda09" /></a> </p>
 
-- 🔭 I’m currently working on **AI driver mern stack applcation**
+- 🔭 I’m currently working on **AI driven mern stack applcation**
 
 - 🌱 I’m currently learning **Next.js**
 
