@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@niharikapanda278](https://medium.com/@niharikapanda278)
-
 - 💬 Ask me about **java.javascript,react..**
 
 - 📫 How to reach me **niharikapanda278@gmail.com**
