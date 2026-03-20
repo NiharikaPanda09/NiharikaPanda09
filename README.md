@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niharika Panda</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+<h3 align="center">Currently A Frontend Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikapanda09&label=Profile%20views&color=0e75b6&style=flat" alt="niharikapanda09" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@niharikapanda09" target="blank"><img src="https://img.shields.io/twitter/follow/@niharikapanda09?logo=twitter&style=for-the-badge" alt="@niharikapanda09" /></a> </p>
 
-- 🔭 I’m currently working on **AI driven mern stack applcation**
+- 🔭 I’m currently working on **AI driven mern stack application**
 
 - 🌱 I’m currently learning **Next.js**
 
