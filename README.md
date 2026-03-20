@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niharika Panda</h1>
-<h3 align="center">Currently A Frontend Intern</h3>
+<h3 align="center">Currently a Frontend Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikapanda09&label=Profile%20views&color=0e75b6&style=flat" alt="niharikapanda09" /> </p>
 
