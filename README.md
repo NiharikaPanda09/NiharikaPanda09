@@ -69,21 +69,28 @@
 </p>
 
 ---
+## 🏆 Top Projects
 
-# 🏆 Top Projects
+### 🚀 Career Sensei AI
+AI-powered career coaching platform with resume analysis, interview preparation, and AI guidance.
 
-<p align="center">
+🔗 https://github.com/NiharikaPanda09/career-sensei-ai
 
-<a href="https://github.com/NiharikaPanda09/career-sensei-ai">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NiharikaPanda09&repo=career-sensei-ai&theme=tokyonight&hide_border=true" />
-</a>
+---
 
-<a href="https://github.com/NiharikaPanda09/MailPilot">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NiharikaPanda09&repo=MailPilot&theme=tokyonight&hide_border=true" />
-</a>
+### 📧 MailPilot
+Production-grade email scheduling system built with BullMQ, Redis, PostgreSQL, and Next.js dashboard.
 
-</p>
+### Features
+- Persistent email scheduling
+- Rate limiting
+- Worker concurrency
+- CSV bulk upload
+- Google OAuth
+- Email analytics dashboard
+- Idempotent email delivery
 
+🔗 https://github.com/NiharikaPanda09/MailPilot
 ---
 
 # 💻 Currently Building
@@ -115,6 +122,10 @@
 
 <a href="https://leetcode.com/u/niharikapanda278/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/niharikaphppz/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40"/>
 </a>
 
 </p>
